@@ -1,4 +1,4 @@
-# Shopify Product Exporter
+# Shopify Product Import
 
 This project is a simple console application that allows you to export products from a Shopify store and save them to a CSV file. The exported products are filtered based on their handles, and only the desired products will be included in the CSV file.
 
